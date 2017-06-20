@@ -7,3 +7,8 @@ Learning Agents for Iterative Voting - Java (Eclipse / Swing / MVC)
 * The data resulting from simulation is directly shown in graphical format
 *
 * @authors: Filipo S. Perotto / Stéphane Airiau / Umberto Grandi
+
+Dependencies :
+- JCommon
+- JFreeChart
+
